@@ -15,3 +15,22 @@ PlantDr is a lightweight web application that helps you keep your plants healthy
 * 💡 **Smart Suggestions** – Get insights on possible issues (watering, sunlight, diseases).
 * 📱 **Mobile-Friendly** – Runs smoothly on desktop and mobile devices.
 * ⚡ **Lightweight** – Minimal, fast, and free to use.
+
+## 🚀 Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript (custom UI)
+* **Hosting:** [tiiny.site](https://tiiny.site) – simple & free deployment
+
+---
+
+## 📌 Future Improvements
+
+* 📷 Direct image-based plant disease detection (AI/ML integration)
+* 🪴 Personalized plant care schedules
+* 🌍 Multi-language support
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo, open an issue, or submit a pull request with improvements.
