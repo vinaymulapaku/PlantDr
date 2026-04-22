@@ -1,0 +1,5 @@
+0 Sugarcane Yellow
+1 Sugarcane Rust
+2 Sugarcane RedRot
+3 Sugarcane Mosaic
+4 Sugarcane Healthy

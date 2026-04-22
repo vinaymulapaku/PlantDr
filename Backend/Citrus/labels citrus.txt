@@ -1,0 +1,4 @@
+0 Citrus Greening
+1 Citrus Canker
+2 Citrus Healthy
+3 Citrus Black Spot

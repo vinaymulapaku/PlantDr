@@ -1,0 +1,3 @@
+0 Brown Spot
+1 Blast
+2 bacterial Leaf Blight

@@ -1,0 +1,4 @@
+0 Grape Isariopsis Leaf Spot
+1 Grape Healthy
+2 Grape Black rot 
+3 Grape Black Measles

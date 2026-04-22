@@ -1,0 +1,5 @@
+0 Chilli Yellowish
+1 Chilli whitefly
+2 Chilli leaf Spot
+3 Chilli Leaf Curl
+4 Chilli Healthy
